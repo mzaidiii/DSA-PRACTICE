@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
+| [0706-design-hashmap](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
+| [0706-design-hashmap](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0706-design-hashmap) |
 ## Simulation
 |  |
 | ------- |
@@ -22,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
