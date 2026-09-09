@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+| [0981-time-based-key-value-store](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0981-time-based-key-value-store) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+| [0981-time-based-key-value-store](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0981-time-based-key-value-store) |
 ## Hash Function
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0981-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
