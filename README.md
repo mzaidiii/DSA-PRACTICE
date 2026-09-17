@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0051-n-queens) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
