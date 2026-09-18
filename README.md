@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0981-time-based-key-value-store) |
+| [2833-furthest-point-from-origin](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [2833-furthest-point-from-origin](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
