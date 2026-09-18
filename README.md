@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0079-word-search) |
+| [0226-invert-binary-tree](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 ## Algorithm X
 |  |
 | ------- |
@@ -283,4 +284,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0176-second-highest-salary) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mzaidiii/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
